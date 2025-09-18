@@ -27,7 +27,7 @@ int main() {
   float pib2;
   int turistico2;
   float densidade2;
-  float percapita2
+  float percapita2;
 
   // Área para entrada de dados
   printf("Vamos jogar o Super Trunfo !\n \n");
